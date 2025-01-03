@@ -163,4 +163,4 @@ cython_debug/
 
 #secret credentials
 #secrets/secret.yaml
-#artifacts
+artifacts
